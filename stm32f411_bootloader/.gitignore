@@ -1,0 +1,11 @@
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+.vscode/
+__pycache__/
+*.pyc
